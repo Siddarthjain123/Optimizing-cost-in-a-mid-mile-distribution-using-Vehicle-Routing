@@ -12,5 +12,4 @@ The “middle mile” — the part of the supply chain in which goods are shippe
 Middle mile delivery is generally handled by large trucking networks.
 In order to minimize cost and increase efficiency, there is an incentive to fill the trailers as completely as possible.
 Sometimes products are redesigned to cover max volume in a trailer.
-This shows the cost involved is huge. We need to lower this cost for max profit to supply chain![image](https://user-images.githubusercontent.com/95931199/185597557-a320de0a-1c14-4cc8-a58f-11b48d777be9.png)
-
+This shows the cost involved is huge. We need to lower this cost for max profit to supply chain
